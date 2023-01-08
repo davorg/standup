@@ -1,0 +1,17 @@
+title: Stand-Up News UK
+description: What's happening in the UK stand-up scene
+url: https://standup.co.uk/
+author:
+  name: Dave Cross
+  email: dave@dave.org.uk
+entries: 50
+page:
+  file: index.html
+  template: index.tt
+feed:
+  file: atom.xml
+  format: Atom
+feeds:
+  - url: https://news.google.com/rss/search?q=standup+uk
+    title: Google News
+    web: https://news.google.com/search?q=standup+uk
