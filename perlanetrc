@@ -12,6 +12,6 @@ feed:
   file: atom.xml
   format: Atom
 feeds:
-  - url: https://news.google.com/rss/search?q=standup+uk
+  - feed: https://news.google.com/rss/search?q=standup+uk
     title: Google News
     web: https://news.google.com/search?q=standup+uk
