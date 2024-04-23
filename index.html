@@ -13,7 +13,10 @@
 
     <title>Stand-Up News UK</title>
     <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+          crossorigin="anonymous">
 
     <link rel="alternate" type="application/atom+xml" title="Atom" href="https://standup.co.uk/atom.xml" />
     <style type="text/css">
@@ -24,16 +27,16 @@ body {
 
   </head>
   <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-md">
       <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <div class="navbar-brand">
+          <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
           </button>
-          <a class="navbar-brand" href="#">Stand-Up News UK</a>
+          <a class="navbar-brand ms-3" href="#">Stand-Up News UK</a>
         </div>
         <!-- div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -46,79 +49,79 @@ body {
     </nav>
     <div class="container">
       <div class="row">
-        <div class="col-md-2">
+        <div class="col-2">
           <h2>sources</h2>
           <ul>
             <li><a href="https://news.google.com/search?q=standup+uk">Google News</a></li>
           </ul>
-          <p><a href="/atom.xml"><img alt="Feed" src="feed.gif" /> Subscribe</a>
+          <p><a href="/atom.xml"><img alt="Feed" src="feed.png" /> Subscribe</a>
           <br />
           <p>Powered by <a href="https://metacpan.org/release/Perlanet">Perlanet</a></p>
-        </div><!-- col-md-2 -->
-        <div class="col-md-8">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h2><a href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDEvMDgvYnJpdGFpbi1sb3Npbmctd2lsbC1zdGFuZC1wdXRpbi_SAQA?oc=5">Britain is losing the will to stand up to Putin - The Telegraph</a></h2>
-            </div><!-- panel-heading -->
-            <div class="panel-body"><a href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDEvMDgvYnJpdGFpbi1sb3Npbmctd2lsbC1zdGFuZC1wdXRpbi_SAQA?oc=5" target="_blank">Britain is losing the will to stand up to Putin</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font>       </div><!-- panel-body -->
-            <div class="panel-footer">
-<span class="label label-default" style="float: left">Google News</span>
+        </div><!-- col-2 -->
+        <div class="col-8">
+          <div class="card mb-3">
+            <div class="card-header">
+              <h2><a href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbG9uZG9uLXBvc3QuY28udWsvaGFubmFoLWdhZHNieS1pcy1yZXR1cm5pbmctdG8tdGhlLXVrLXdpdGgtbG9uZG9uLXBhbGxhZGl1bS1zaG93cy_SAQA?oc=5">HANNAH GADSBY IS RETURNING TO THE UK WITH LONDON PALLADIUM SHOWS - London Post</a></h2>
+            </div><!-- card-header -->
+            <div class="card-body"><a href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbG9uZG9uLXBvc3QuY28udWsvaGFubmFoLWdhZHNieS1pcy1yZXR1cm5pbmctdG8tdGhlLXVrLXdpdGgtbG9uZG9uLXBhbGxhZGl1bS1zaG93cy_SAQA?oc=5" target="_blank">HANNAH GADSBY IS RETURNING TO THE UK WITH LONDON PALLADIUM SHOWS</a>&nbsp;&nbsp;<font color="#6f6f6f">London Post</font>       </div><!-- card-body -->
+            <div class="card-footer d-flex">
+<span class="badge bg-secondary me-auto">Google News</span>
 
               <p class="text-right"><small>Published
-     on Sunday 08 January 2023 15:37</small></p>
-            </div><!-- panel-footer -->
-          </div><!-- panel -->
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h2><a href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3Lm1hbmdhbG9yZWFuLmNvbS9rdW1haWwtbmFuamlhbmktc2F5cy1tYWluc3RyZWFtLWFtZXJpY2EtaGFzLW5vcm1hbGlzZWQtcmFjaXN0LWxhbmd1YWdlL9IBZ2h0dHBzOi8vd3d3Lm1hbmdhbG9yZWFuLmNvbS9rdW1haWwtbmFuamlhbmktc2F5cy1tYWluc3RyZWFtLWFtZXJpY2EtaGFzLW5vcm1hbGlzZWQtcmFjaXN0LWxhbmd1YWdlLz9hbXA?oc=5">Kumail Nanjiani says mainstream America has normalised racist language - Mangalorean.com</a></h2>
-            </div><!-- panel-heading -->
-            <div class="panel-body"><a href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3Lm1hbmdhbG9yZWFuLmNvbS9rdW1haWwtbmFuamlhbmktc2F5cy1tYWluc3RyZWFtLWFtZXJpY2EtaGFzLW5vcm1hbGlzZWQtcmFjaXN0LWxhbmd1YWdlL9IBZ2h0dHBzOi8vd3d3Lm1hbmdhbG9yZWFuLmNvbS9rdW1haWwtbmFuamlhbmktc2F5cy1tYWluc3RyZWFtLWFtZXJpY2EtaGFzLW5vcm1hbGlzZWQtcmFjaXN0LWxhbmd1YWdlLz9hbXA?oc=5" target="_blank">Kumail Nanjiani says mainstream America has normalised racist language</a>&nbsp;&nbsp;<font color="#6f6f6f">Mangalorean.com</font>       </div><!-- panel-body -->
-            <div class="panel-footer">
-<span class="label label-default" style="float: left">Google News</span>
+     on Tuesday 23 April 2024 13:09</small></p>
+            </div><!-- card-footer -->
+          </div><!-- card -->
+          <div class="card mb-3">
+            <div class="card-header">
+              <h2><a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnJhZGlvdGltZXMuY29tL2dvaW5nLW91dC90aWNrZXRzL2phc29uLW1hbmZvcmQtdWstdG91ci_SAQA?oc=5">Jason Manford adds 52 extra dates to his upcoming UK tour - Radio Times</a></h2>
+            </div><!-- card-header -->
+            <div class="card-body"><a href="https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnJhZGlvdGltZXMuY29tL2dvaW5nLW91dC90aWNrZXRzL2phc29uLW1hbmZvcmQtdWstdG91ci_SAQA?oc=5" target="_blank">Jason Manford adds 52 extra dates to his upcoming UK tour</a>&nbsp;&nbsp;<font color="#6f6f6f">Radio Times</font>       </div><!-- card-body -->
+            <div class="card-footer d-flex">
+<span class="badge bg-secondary me-auto">Google News</span>
 
               <p class="text-right"><small>Published
-     on Sunday 08 January 2023 14:37</small></p>
-            </div><!-- panel-footer -->
-          </div><!-- panel -->
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h2><a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmdnMi5uZXQvYmFycnktZ2FyZGluZXItbXAtdXJnZXMtdG8tZnJhbWUtcG9saWNpZXMtdG8tYWNoaWV2ZS1jbGltYXRlLXRhcmdldHMtZHVyaW5nLWd1amFyYXQtdmlzaXQv0gEA?oc=5">Barry Gardiner MP urges to frame policies to achieve climate targets ... - Garavi Gujarat</a></h2>
-            </div><!-- panel-heading -->
-            <div class="panel-body"><a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmdnMi5uZXQvYmFycnktZ2FyZGluZXItbXAtdXJnZXMtdG8tZnJhbWUtcG9saWNpZXMtdG8tYWNoaWV2ZS1jbGltYXRlLXRhcmdldHMtZHVyaW5nLWd1amFyYXQtdmlzaXQv0gEA?oc=5" target="_blank">Barry Gardiner MP urges to frame policies to achieve climate targets ...</a>&nbsp;&nbsp;<font color="#6f6f6f">Garavi Gujarat</font>       </div><!-- panel-body -->
-            <div class="panel-footer">
-<span class="label label-default" style="float: left">Google News</span>
+     on Tuesday 23 April 2024 11:03</small></p>
+            </div><!-- card-footer -->
+          </div><!-- card -->
+          <div class="card mb-3">
+            <div class="card-header">
+              <h2><a href="https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMzMzNzY3Ny9LZXZpbi1IYXJ0LWhlaWdodC1qb2tlcy1zdGFuZHVwLXBlcmZvcm1hbmNlcy5odG1s0gFsaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL3R2c2hvd2Jpei9hcnRpY2xlLTEzMzM3Njc3L2FtcC9LZXZpbi1IYXJ0LWhlaWdodC1qb2tlcy1zdGFuZHVwLXBlcmZvcm1hbmNlcy5odG1s?oc=5">Kevin Hart FINALLY reveals his height... and explains why he jokes about it during his standup performances - Daily Mail</a></h2>
+            </div><!-- card-header -->
+            <div class="card-body"><a href="https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMzMzNzY3Ny9LZXZpbi1IYXJ0LWhlaWdodC1qb2tlcy1zdGFuZHVwLXBlcmZvcm1hbmNlcy5odG1s0gFsaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL3R2c2hvd2Jpei9hcnRpY2xlLTEzMzM3Njc3L2FtcC9LZXZpbi1IYXJ0LWhlaWdodC1qb2tlcy1zdGFuZHVwLXBlcmZvcm1hbmNlcy5odG1s?oc=5" target="_blank">Kevin Hart FINALLY reveals his height... and explains why he jokes about it during his standup performances</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Mail</font>       </div><!-- card-body -->
+            <div class="card-footer d-flex">
+<span class="badge bg-secondary me-auto">Google News</span>
 
               <p class="text-right"><small>Published
-     on Sunday 08 January 2023 14:13</small></p>
-            </div><!-- panel-footer -->
-          </div><!-- panel -->
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h2><a href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcGV0ZXIta2F5LWRpdmlkZXMtZmFucy1hZnRlci0yODkwMjY4N9IBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcGV0ZXIta2F5LWRpdmlkZXMtZmFucy1hZnRlci0yODkwMjY4Ny5hbXA?oc=5">Peter Kay divides fans after calling out heckler who is then booted out of show - The Mirror</a></h2>
-            </div><!-- panel-heading -->
-            <div class="panel-body"><a href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcGV0ZXIta2F5LWRpdmlkZXMtZmFucy1hZnRlci0yODkwMjY4N9IBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcGV0ZXIta2F5LWRpdmlkZXMtZmFucy1hZnRlci0yODkwMjY4Ny5hbXA?oc=5" target="_blank">Peter Kay divides fans after calling out heckler who is then booted out of show</a>&nbsp;&nbsp;<font color="#6f6f6f">The Mirror</font>       </div><!-- panel-body -->
-            <div class="panel-footer">
-<span class="label label-default" style="float: left">Google News</span>
+     on Monday 22 April 2024 19:29</small></p>
+            </div><!-- card-footer -->
+          </div><!-- card -->
+          <div class="card mb-3">
+            <div class="card-header">
+              <h2><a href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnN0ZXJlb2JvYXJkLmNvbS9jb250ZW50L3ZpZXcvMjQzNjM2LznSAQA?oc=5">Theo Von To Bring Return Of The Rat Tour To UK And Ireland In June - Stereoboard</a></h2>
+            </div><!-- card-header -->
+            <div class="card-body"><a href="https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnN0ZXJlb2JvYXJkLmNvbS9jb250ZW50L3ZpZXcvMjQzNjM2LznSAQA?oc=5" target="_blank">Theo Von To Bring Return Of The Rat Tour To UK And Ireland In June</a>&nbsp;&nbsp;<font color="#6f6f6f">Stereoboard</font>       </div><!-- card-body -->
+            <div class="card-footer d-flex">
+<span class="badge bg-secondary me-auto">Google News</span>
 
               <p class="text-right"><small>Published
-     on Sunday 08 January 2023 13:57</small></p>
-            </div><!-- panel-footer -->
-          </div><!-- panel -->
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h2><a href="https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAxLzA4LzUyMzQyL25ld195ZWFyJTJDX25ld190b3Vyc9IBAA?oc=5">New year, new tours : News 2023 - Chortle</a></h2>
-            </div><!-- panel-heading -->
-            <div class="panel-body"><a href="https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAxLzA4LzUyMzQyL25ld195ZWFyJTJDX25ld190b3Vyc9IBAA?oc=5" target="_blank">New year, new tours : News 2023</a>&nbsp;&nbsp;<font color="#6f6f6f">Chortle</font>       </div><!-- panel-body -->
-            <div class="panel-footer">
-<span class="label label-default" style="float: left">Google News</span>
+     on Friday 19 April 2024 11:21</small></p>
+            </div><!-- card-footer -->
+          </div><!-- card -->
+          <div class="card mb-3">
+            <div class="card-header">
+              <h2><a href="https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzgyOS9yb2Jpbi1tb3JnYW4tMjAyNC10b3VyL9IBAA?oc=5">Robin Morgan to tour The Spark stand-up show - British Comedy Guide</a></h2>
+            </div><!-- card-header -->
+            <div class="card-body"><a href="https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzgyOS9yb2Jpbi1tb3JnYW4tMjAyNC10b3VyL9IBAA?oc=5" target="_blank">Robin Morgan to tour The Spark stand-up show</a>&nbsp;&nbsp;<font color="#6f6f6f">British Comedy Guide</font>       </div><!-- card-body -->
+            <div class="card-footer d-flex">
+<span class="badge bg-secondary me-auto">Google News</span>
 
               <p class="text-right"><small>Published
-     on Sunday 08 January 2023 13:06</small></p>
-            </div><!-- panel-footer -->
-          </div><!-- panel -->
+     on Wednesday 03 April 2024 07:00</small></p>
+            </div><!-- card-footer -->
+          </div><!-- card -->
 
-        </div><!-- col-md-8 -->
-        <div id="col-md-1">
+        </div><!-- col-8 -->
+        <div id="col-1">
 <script type="text/javascript"><!--
 google_ad_client = "pub-3663319204757145";
 /* planet */
@@ -130,20 +133,19 @@ google_ad_height = 600;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-        </div><!-- col-md-1 -->
+        </div><!-- col-1 -->
       </div><!-- row -->
       <div class="row">
-        <div class="col-md-10">
-      <address><a href="mailto:dave@dave.org.uk">Dave Cross</a> / Sunday 08 January 2023 15:55</address>
-        </div><!-- col-md-10 -->
+        <div class="col-10">
+      <address><a href="mailto:dave@dave.org.uk">Dave Cross</a> / Tuesday 23 April 2024 16:51</address>
+        </div><!-- col-10 -->
       </div><!-- row -->
     </div><!-- container -->
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+            integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+            crossorigin="anonymous"></script>
   </body>
 </html>
