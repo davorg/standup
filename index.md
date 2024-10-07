@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "Welcome to StandUp.co.uk"
 description: "Your go-to source for everything related to the UK stand-up comedy scene. Find events, read reviews, and discover the best comedians in the country."
 permalink: /
