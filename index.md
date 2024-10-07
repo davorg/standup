@@ -25,7 +25,7 @@ Looking to book a night out? Browse our curated list of upcoming shows and secur
 
 ## Featured Content
 
-- [Latest Blog Post: The UK Stand-Up Comedy Scene: A Snapshot of 2024](/2024/10/07/uk-standup-comedy-scene-2024)
+- [Latest Blog Post: The UK Stand-Up Comedy Scene: A Snapshot of 2024](/2024/10/07/a-snapshot-of-2024/)
 - [Comedian of the Month: Catherine Bohart](#)
 - [Top Venues to Visit in London and Beyond](#)
 
