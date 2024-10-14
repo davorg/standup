@@ -22,7 +22,7 @@ Award**, designed to showcase the best new talent in the Midlands. This
 year’s winner, **Tom Towelling**, impressed audiences with his sharp wit
 and fresh material. The festival is a significant springboard for emerging
 comedians, many of whom go on to achieve national
-recognition&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+recognition.
 
 #### **Southport Comedy Festival Kicks Off**
 
@@ -33,7 +33,7 @@ of the festival’s key events was the **New Comedian of the Year 2024 Grand
 Final** on 6th October, which drew a host of talented new acts competing for
 the coveted title. The festival continues until 13th October, with big names
 like **Jason Manford** testing out new material in a work-in-progress
-show&#8203;:contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}.
+show.
 
 #### **John Bishop Announces 2025 Arena Tour**
 
@@ -42,7 +42,7 @@ announced a massive UK and Ireland arena tour to celebrate 25 years in
 stand-up. The tour, set to kick off in October 2025, will see Bishop
 performing in major venues like London’s O2 Arena and Manchester’s Co-op
 Live. What’s more, all tickets will be priced at just £25 to mark the
-occasion&#8203;:contentReference[oaicite:4]{index=4}.
+occasion.
 
 #### **Scotland Stands Up Returns**
 
@@ -51,7 +51,7 @@ is returning for its second special. Hosted by **Christopher
 Macarthur-Boyd**, the show is set to be filmed later this month in Edinburgh
 and will feature top Scottish talents like **Iain Stirling** and **Susan
 Riddell**. It’s sure to be a night filled with laughter and sharp Scottish
-humour&#8203;:contentReference[oaicite:5]{index=5}.
+humour.
 
 As the UK comedy scene continues to thrive, with festivals, new tours, and
 exciting showcases for fresh talent, there's never been a better time to
