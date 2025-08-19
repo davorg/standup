@@ -119,6 +119,11 @@ exclude:
 strict_front_matter: true
 
 defaults:
-  - scope: { path: "", type: posts }
-    values: { layout: single }
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      read_time: true 
 
