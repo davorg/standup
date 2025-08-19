@@ -1,6 +1,4 @@
-
 ---
-layout: single
 title: "Edinburgh Fringe 2025 – Comedy Preview (Day Two)"
 date: 2025-08-02
 categories: [edinburgh, fringe, comedy]
