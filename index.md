@@ -8,6 +8,10 @@ permalink: /
 
 Welcome to **StandUp.co.uk**—the hub for everything related to the vibrant world of stand-up comedy in the UK! Whether you're a seasoned comedy aficionado, an aspiring comedian, or just looking for a night out filled with laughter, you've come to the right place.
 
+## Featured Content
+
+- You're probably looking for our coverage of the [2025 Edinburgh Fringe](https://standup.co.uk/edinburgh)
+
 ## What We Offer
 
 ### 🎤 **Discover Comedy Events Near You**
@@ -21,11 +25,6 @@ Check out our spotlight section featuring the newest and most promising comedian
 
 ### 🎟️ **Get Tickets and Join the Community**
 Looking to book a night out? Browse our curated list of upcoming shows and secure your tickets directly through our site. Join our community of comedy lovers and never miss a beat in the UK comedy world.
-
-## Featured Content
-
-- [Latest Blog Post: The Latest in UK Stand-Up Comedy: Highlights from the Past Week](/2024/11/04/highlights/)
-- [The UK Stand-Up Comedy Scene: A Snapshot of 2024](/2024/10/07/a-snapshot-of-2024/)
 
 ## Get Involved!
 
