@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Eighteen)"
 date: 2025-08-18
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 **Monday 18 August 2025**—with just under a week to go, the Edinburgh Fringe comedy scene remained at full strength, with critics filing fresh reviews and audiences still packing out the big names.

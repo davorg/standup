@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Roundup (Day Three)"
 date: 2025-08-03
 categories: [edinburgh, fringe, comedy]
+author: "Theresa Mary Anne"
 ---
 
 Day Three of the Edinburgh Festival Fringe (**Sunday 3 August 2025**) brings the first proper wave of comedy reviews alongside ongoing preview buzz. Here are the key things to know — all comedy, with primary sources linked.

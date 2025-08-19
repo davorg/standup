@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Six)"
 date: 2025-08-06
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 **Day Six (Wednesday 6 August 2025)** at the Edinburgh Fringe brought physical clowning, heartfelt storytelling, and witty one‑liners to the fore. Here’s what stood out:

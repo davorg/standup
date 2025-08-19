@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Fifteen)"
 date: 2025-08-15
 categories: [edinburgh, fringe, comedy]
+author: "Theresa Mary Anne"
 ---
 
 **Friday 15 August 2025**—as the Fringe entered its third weekend, comedy reviews and round‑ups spotlighted both established stars and inventive newcomers.

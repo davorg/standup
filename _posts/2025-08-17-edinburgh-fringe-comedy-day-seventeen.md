@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Seventeen)"
 date: 2025-08-17
 categories: [edinburgh, fringe, comedy]
+author: "Theresa Mary Anne"
 ---
 
 **Sunday 17 August 2025**—as the Fringe entered its final full week, comedy shows remained central to reviews and audience buzz.

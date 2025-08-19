@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Ten)"
 date: 2025-08-10
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 **Sunday 10 August 2025** marked the second weekend of the Edinburgh Fringe, bringing with it a mix of fresh reviews, previews, and buzzworthy comedy moments.

@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Sixteen)"
 date: 2025-08-16
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 **Saturday 16 August 2025**—the Fringe’s busiest weekend brought waves of audiences and new reviews, with comedy leading the charge.

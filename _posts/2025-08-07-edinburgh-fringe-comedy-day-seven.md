@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Seven)"
 date: 2025-08-07
 categories: [edinburgh, fringe, comedy]
+author: "Theresa Mary Anne"
 ---
 
 **Thursday 7 August 2025** brought a strong wave of **comedy reviews** across the Fringe. Here are the key picks and takeaways — with primary sources linked.

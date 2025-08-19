@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Nine)"
 date: 2025-08-09
 categories: [edinburgh, fringe, comedy]
+author: "Theresa Mary Anne"
 ---
 
 **Saturday 9 August 2025** delivered one of Fringe’s sharpest stand‑up performances to date—plus continued highlights from broader comedy coverage.

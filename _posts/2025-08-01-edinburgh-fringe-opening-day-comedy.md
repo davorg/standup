@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Opening Day Comedy Highlights"
 date: 2025-08-01
 categories: [edinburgh, fringe, comedy]
+author: "Theresa Mary Anne"
 ---
 
 Here’s a comedy-focused roundup of what was noteworthy on the **opening day of the Edinburgh Festival Fringe, Friday 1 August 2025**:

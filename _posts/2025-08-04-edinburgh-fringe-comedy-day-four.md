@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Four)"
 date: 2025-08-04
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 By **Day Four (Monday 4 August 2025)**, comedy at the Fringe had already produced a standout award‑winner, bold political satire, and musical mischief. Here’s a round‑up of reviews and highlights.

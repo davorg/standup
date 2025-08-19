@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Preview (Day Two)"
 date: 2025-08-02
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 With the first night behind us, **Day Two of the Edinburgh Festival Fringe (2 August 2025)** is when the comedy programme really kicks into gear. While early reviews are still trickling in, the buzz is all about the big names, rising stars, and unusual shows to look forward to over the rest of the festival.

@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Fourteen)"
 date: 2025-08-14
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 **Thursday 14 August 2025**—two full weeks into the Fringe, comedy critics kept audiences updated with fresh reviews and festival‑wide reflections.

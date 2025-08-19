@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Eight)"
 date: 2025-08-08
 categories: [edinburgh, fringe, comedy]
+author: "Dave Cross"
 ---
 
 **Friday 8 August 2025** marked the end of Fringe’s first full week—and the comedy scene is blazing with standout acts and snappy word-of-mouth buzz.

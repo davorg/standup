@@ -2,6 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Eleven)"
 date: 2025-08-11
 categories: [edinburgh, fringe, comedy]
+author: "Theresa Mary Anne"
 ---
 
 **Monday 11 August 2025**—the first Fringe Monday lull for some, but comedy critics and audiences still found plenty to laugh about.
