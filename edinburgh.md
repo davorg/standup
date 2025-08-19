@@ -1,6 +1,7 @@
 ---
 title: "Edinburgh Fringe 2025"
 permalink: /edinburgh/
+layout: single
 ---
 
 # Edinburgh Fringe 2025 – Comedy Coverage
