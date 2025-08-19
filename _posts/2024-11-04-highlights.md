@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Weekly Round-Up: Highlights from the UK Stand-Up Comedy Scene"
 date: 2024-11-04 10:00:00 +0000
 categories: [Comedy, UK Scene, News]

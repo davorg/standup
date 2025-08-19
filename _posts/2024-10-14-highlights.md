@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Latest in UK Stand-Up Comedy: Highlights from the Past Week"
 date: 2024-10-14 00:00:00 +0000
 categories: [Comedy, UK Scene, Trends]

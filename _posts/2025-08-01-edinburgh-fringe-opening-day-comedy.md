@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Edinburgh Fringe 2025 – Opening Day Comedy Highlights"
 date: 2025-08-01
 categories: [edinburgh, fringe, comedy]
