@@ -1,10 +1,10 @@
 ---
-title: "Edinburgh Fringe 2025"
+title: "Edinburgh Fringe 2025 – Comedy Coverage"
 permalink: /edinburgh/
 layout: single
 ---
 
-# Edinburgh Fringe 2025 – Comedy Coverage
+![Comedian at an Edinburgh club](/assets/images/edinburgh.png)
 
 <ul>
   {% for post in site.categories.edinburgh %}
