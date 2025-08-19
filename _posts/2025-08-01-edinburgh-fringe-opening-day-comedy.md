@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Edinburgh Fringe 2025 – Opening Day Comedy Highlights"
