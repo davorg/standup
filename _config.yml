@@ -118,3 +118,7 @@ exclude:
 
 strict_front_matter: true
 
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: single }
+
