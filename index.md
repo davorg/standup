@@ -4,6 +4,8 @@ description: "Your go-to source for everything related to the UK stand-up comedy
 permalink: /
 ---
 
+![Comedian at a club](/img/comedian.png)
+
 Welcome to **StandUp.co.uk**—the hub for everything related to the vibrant world of stand-up comedy in the UK! Whether you're a seasoned comedy aficionado, an aspiring comedian, or just looking for a night out filled with laughter, you've come to the right place.
 
 ## What We Offer
