@@ -15,7 +15,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.1
 
 # Minimal Mistakes basics
 minimal_mistakes_skin: "default"    # try "air", "contrast", "dark" etc.
-logo: /assets/images/site-logo.png  # supply a 1200x630 image for social shares
+logo: /assets/images/comedian.png   # supply a 1200x630 image for social shares
 repository: davorg/standup.co.uk    # your repo (for github-metadata)
 
 # Plugins (great on GitHub Pages when you build via Actions)
