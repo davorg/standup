@@ -1,4 +1,3 @@
-
 ---
 title: "Edinburgh Fringe 2025 – Comedy Round‑Up (Day Nine)"
 date: 2025-08-09

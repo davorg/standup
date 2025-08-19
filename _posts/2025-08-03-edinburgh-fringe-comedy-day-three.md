@@ -1,4 +1,3 @@
-
 ---
 title: "Edinburgh Fringe 2025 – Comedy Roundup (Day Three)"
 date: 2025-08-03
