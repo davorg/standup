@@ -126,4 +126,5 @@ defaults:
       layout: single
       show_date: true
       read_time: true 
+      author_profile: 1
 
