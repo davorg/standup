@@ -2,6 +2,7 @@
 title: "Welcome to StandUp.co.uk"
 description: "Your go-to source for everything related to the UK stand-up comedy scene. Find events, read reviews, and discover the best comedians in the country."
 permalink: /
+layout: single
 ---
 
 ![Comedian at a club](/assets/images/comedian.png)
@@ -33,4 +34,3 @@ Are you a comedian, venue, or event organiser? [Contact us](#) to get your shows
 ---
 
 Stay connected by following us on [Twitter](#), [Instagram](#), and [Facebook](#) for the latest updates, exclusive content, and more laughs!
-
