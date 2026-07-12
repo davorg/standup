@@ -27,6 +27,7 @@ plugins:
   - jekyll-archives
   - jekyll-paginate-v2
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # Pagination (jekyll-paginate-v2)
 pagination:

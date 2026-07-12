@@ -3,6 +3,8 @@ title: "Dave Cross"
 description: "Writer and Editor for StandUp.co.uk"
 permalink: /team/dave-cross/
 layout: single
+redirect_from:
+  - /writers/dave-cross/
 ---
 
 ![Dave Cross](https://davecross.co.uk/img/dc-cartoon.png)
