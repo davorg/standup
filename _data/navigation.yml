@@ -7,5 +7,7 @@ main:
     url: /edinburgh/
   - title: Team
     url: /team/
+  - title: About
+    url: /about/
   - title: Contact
     url: /contact/

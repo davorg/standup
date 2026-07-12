@@ -80,6 +80,9 @@ social:
 
 footer:
   links:
+    - label: About
+      icon: "fas fa-fw fa-info-circle"
+      url: /about/
     - label: Team
       icon: "fas fa-fw fa-users"
       url: /team/
