@@ -1,7 +1,7 @@
 ---
 title: "Weekly Round-Up: Highlights from the UK Stand-Up Comedy Scene"
 date: 2024-11-04 10:00:00 +0000
-categories: [Comedy, UK Scene, News]
+categories: [comedy, uk-scene, news]
 tags: [Stand-Up, Comedy Festivals, Tours, Awards]
 author: "Beth Sowman"
 ---
@@ -48,4 +48,3 @@ with audiences in intimate settings.
 As the UK comedy scene continues to evolve, these developments highlight the
 dynamic nature of stand-up comedy across the country. Stay tuned for more
 updates and support live comedy in your local area.
-

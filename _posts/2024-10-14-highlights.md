@@ -1,7 +1,7 @@
 ---
 title: "The Latest in UK Stand-Up Comedy: Highlights from the Past Week"
 date: 2024-10-14 00:00:00 +0000
-categories: [Comedy, UK Scene, Trends]
+categories: [comedy, uk-scene, trends]
 tags: [Stand-Up, Comedy Festivals, John Bishop, Birmingham Comedy Festival, Southport Comedy Festival]
 author: "Beth Sowman"
 ---
@@ -56,4 +56,3 @@ As the UK comedy scene continues to thrive, with festivals, new tours, and
 exciting showcases for fresh talent, there's never been a better time to
 catch some live stand-up. Keep an eye out for more announcements, and be sure
 to check out your local comedy nights to support emerging performers!
-

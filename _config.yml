@@ -20,6 +20,7 @@ repository: davorg/standup.co.uk    # your repo (for github-metadata)
 
 # Plugins (great on GitHub Pages when you build via Actions)
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
@@ -127,4 +128,3 @@ defaults:
       show_date: true
       read_time: true 
       author_profile: 1
-
