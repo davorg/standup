@@ -74,12 +74,21 @@ defaults:
 social:
   name: UK Stand-Up
   links:
-    - https://x.com/yourhandle
-    - https://instagram.com/yourhandle
-    - https://bsky.app/profile/yourhandle.bsky.social
+    - https://www.instagram.com/standupcouk/
+    - https://bsky.app/profile/standupcouk.bsky.social
+    - https://tiktok.com/@standup.co.uk
 
 footer:
   links:
+    - label: Instagram
+      icon: "fab fa-fw fa-instagram"
+      url: https://www.instagram.com/standupcouk/
+    - label: Bluesky
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/standupcouk.bsky.social
+    - label: TikTok
+      icon: "fab fa-fw fa-tiktok"
+      url: https://tiktok.com/@standup.co.uk
     - label: About
       icon: "fas fa-fw fa-info-circle"
       url: /about/

@@ -14,3 +14,9 @@ Please include as much relevant information as possible, such as the performer
 and show name, venue, dates, press material and an official ticket link.
 
 We read every message, but coverage cannot be guaranteed.
+
+## Follow us
+
+- [Instagram](https://www.instagram.com/standupcouk/)
+- [Bluesky](https://bsky.app/profile/standupcouk.bsky.social)
+- [TikTok](https://tiktok.com/@standup.co.uk)
