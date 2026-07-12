@@ -78,6 +78,15 @@ social:
     - https://instagram.com/yourhandle
     - https://bsky.app/profile/yourhandle.bsky.social
 
+footer:
+  links:
+    - label: Team
+      icon: "fas fa-fw fa-users"
+      url: /team/
+    - label: Contact
+      icon: "fas fa-fw fa-envelope"
+      url: /contact/
+
 analytics:
   provider: "google-gtag"
   google:

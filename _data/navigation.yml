@@ -1,9 +1,11 @@
 main:
   - title: Home
     url: /
-  - title: Edinburgh Fringe
-    url: /edinburgh/
-  - title: 2026 Coverage
+  - title: Edinburgh 2026
     url: /edinburgh/2026/
-  - title: 2025 Archive
-    url: /edinburgh/2025/
+  - title: Archive
+    url: /edinburgh/
+  - title: Team
+    url: /team/
+  - title: Contact
+    url: /contact/

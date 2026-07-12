@@ -1,7 +1,7 @@
 ---
 title: "Dave Cross"
 description: "Writer and Editor for StandUp.co.uk"
-permalink: /writers/dave-cross/
+permalink: /team/dave-cross/
 layout: single
 ---
 
