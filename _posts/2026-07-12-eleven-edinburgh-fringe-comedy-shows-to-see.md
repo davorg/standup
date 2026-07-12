@@ -49,15 +49,14 @@ Roberts. Read the official description of
 [*The Legend of Crystal Shell*](https://www.edfringe.com/tickets/whats-on/kristen-schaal-the-legend-of-crystal-shell)
 and tell me you are not at least curious.
 
-## Larry Dean: *Dodger*
+## Larry Dean: *Hellbent*
 
 Larry Dean was already a three-time Edinburgh Comedy Award nominee, but
 *Saturday Night Live UK* has introduced him to a much larger audience.
-[*Dodger*](https://www.edfringe.com/tickets/whats-on/larry-dean-dodger) is
-about the time he has been spending with his granny, with identity and heroes
-somewhere in the mix. Dean has an unusually warm, high-energy presence and a
-formidable gag rate. This may be another ticket that has become considerably
-harder to obtain since March.
+[*Hellbent*](https://www.edfringe.com/tickets/whats-on/larry-dean-hellbent)
+finds him recently married but still refusing to grow up. Dean has an unusually
+warm, high-energy presence and a formidable gag rate. This may be another
+ticket that has become considerably harder to obtain since March.
 
 ## Nish Kumar: *Angry Humour From a Really Nice Guy*
 
@@ -136,3 +135,6 @@ can also find more information on our [contact page](/contact/).
 
 *Programme details can change. Follow the links above for current performance
 dates, venues, availability and accessibility information.*
+
+*Correction, 12 July 2026: An earlier version of this article incorrectly
+identified Larry Dean's 2026 show as* Dodger. *His 2026 show is* Hellbent.
