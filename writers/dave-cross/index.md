@@ -25,3 +25,5 @@ club that had coalesced around the upstairs bar at the Bedford in Balham,
 and would often be there into the early hours, chatting with comics who
 had performed at the Banana Cabaret.
 
+Dave registered the domain standup.co.uk in 1999. He had such big plans
+for it. But, hey, life's like that, sometimes.
