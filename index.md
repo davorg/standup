@@ -10,7 +10,7 @@ Welcome to **StandUp.co.uk**—the hub for everything related to the vibrant wor
 
 ## Featured Content
 
-- You're probably looking for our coverage of the [2025 Edinburgh Fringe](https://standup.co.uk/edinburgh)
+- You're probably looking for our [Edinburgh Fringe coverage](/edinburgh/).
 
 ## What We Offer
 
@@ -33,5 +33,4 @@ Are you a comedian, venue, or event organiser? [Contact us](#) to get your shows
 ---
 
 Stay connected by following us on [Twitter](#), [Instagram](#), and [Facebook](#) for the latest updates, exclusive content, and more laughs!
-
 
