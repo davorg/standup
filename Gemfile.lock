@@ -81,6 +81,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-remote-theme (0.5.1)
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
@@ -182,6 +184,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-include-cache
   jekyll-paginate-v2
+  jekyll-redirect-from
   jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
@@ -190,4 +193,4 @@ RUBY VERSION
    ruby 3.3.4p94
 
 BUNDLED WITH
-   2.5.11
+   2.7.2
