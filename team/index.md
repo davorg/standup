@@ -11,6 +11,7 @@ experience around the UK comedy scene.
 ## Dave Cross
 
 ![Dave Cross](/assets/images/dave-avatar.png)
+{: .team-avatar }
 
 Dave is the writer and editor of StandUp.co.uk. He registered the domain in
 1999 and has been on the fringes of the London comedy scene for over forty

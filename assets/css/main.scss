@@ -1,0 +1,15 @@
+---
+# This front matter is required for Jekyll to process the stylesheet.
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+.team-avatar {
+  width: 20%;
+  min-width: 7rem;
+  max-width: 12rem;
+  height: auto;
+}
