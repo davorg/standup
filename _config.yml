@@ -70,21 +70,6 @@ defaults:
         overlay_image: /assets/images/social-default.jpg   # 1200x630 recommended
         overlay_filter: 0.4
 
-# Navigation (appears in header)
-# Create _data/navigation.yml for richer menus if you like.
-# For quick wins:
-nav:
-  - title: Home
-    url: /
-  - title: Reviews
-    url: /category/reviews/
-  - title: News
-    url: /category/news/
-  - title: Picks
-    url: /category/picks/
-  - title: About
-    url: /about/
-
 # Social + Analytics
 social:
   name: UK Stand-Up
