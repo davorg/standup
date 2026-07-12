@@ -14,7 +14,7 @@ laughter, you've come to the right place.
 
 ## Featured Content
 
-- You're probably looking for our [Edinburgh Fringe coverage](/edinburgh/).
+- [Eleven Edinburgh Fringe comedy shows I want to see in 2026](/2026/07/12/eleven-edinburgh-fringe-comedy-shows-to-see/)
 
 ## What We Offer
 
