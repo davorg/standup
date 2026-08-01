@@ -3,6 +3,7 @@ title: "Edinburgh Fringe 2025 – Comedy Awards Shortlist"
 date: 2025-08-21
 categories: [edinburgh, fringe, comedy]
 author: Theresa Mary Anne
+excerpt: "The Edinburgh Comedy Awards announced their 2025 shortlists, featuring eight nominees for Best Comedy Show and seven for Best Newcomer."
 ---
 
 ![Comedy Awards Shortlist](/assets/images/awards.png)
