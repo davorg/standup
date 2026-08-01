@@ -1,0 +1,7 @@
+{% assign author_posts = site.posts | where: "author", include.author %}
+<h2>Articles by {{ include.author }}</h2>
+<div class="entries-list">
+  {% for post in author_posts %}
+    {% include archive-single.html type="list" %}
+  {% endfor %}
+</div>

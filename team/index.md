@@ -19,4 +19,11 @@ years.
 
 [Read more about Dave Cross](/team/dave-cross/)
 
+## Theresa Mary Anne
+
+![Theresa Mary Anne](/assets/images/theresa-avatar.png)
+{: .team-avatar }
+
+[Read more about Theresa Mary Anne](/team/theresa-mary-anne/)
+
 Want to get in touch with the team? [Contact StandUp.co.uk](/contact/).

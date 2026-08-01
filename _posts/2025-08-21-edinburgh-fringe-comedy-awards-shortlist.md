@@ -2,7 +2,7 @@
 title: "Edinburgh Fringe 2025 – Comedy Awards Shortlist"
 date: 2025-08-21
 categories: [edinburgh, fringe, comedy]
-author: "Theresa Mary Anne"
+author: Theresa Mary Anne
 ---
 
 ![Comedy Awards Shortlist](/assets/images/awards.png)
