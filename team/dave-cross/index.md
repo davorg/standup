@@ -30,11 +30,4 @@ had performed at the Banana Cabaret.
 Dave registered the domain standup.co.uk in 1999. He had such big plans
 for it. But, hey, life's like that, sometimes.
 
-## Articles by Dave Cross
-
-{% assign dave_posts = site.posts | where: "author", "Dave Cross" %}
-<div class="entries-list">
-  {% for post in dave_posts %}
-    {% include archive-single.html type="list" %}
-  {% endfor %}
-</div>
+{% include author-posts.html author="Dave Cross" %}
