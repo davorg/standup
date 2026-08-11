@@ -58,7 +58,7 @@ reviews:
     rating: 4.5
     text:
       - "Two days into my time at the Fringe and this is the best thing I've seen. Lilla Multipass takes the audience along to her first therapy session. It's a difficult process; there's a lot to unpick. But, over the hour, she deconstructs a lot of the lifestyle of a millennial woman."
-      - "Part stand-up, part theatre (she turns cardboard boxes into props with aqchild-like glee) and part audience participation (the gentlest, most optional audience participation I've ever seen), this show is a joy to behold. If there's any justice, she'll be up for an award."
+      - "Part stand-up, part theatre (she turns cardboard boxes into props with a child-like glee) and part audience participation (the gentlest, most optional audience participation I've ever seen), this show is a joy to behold. If there's any justice, she'll be up for an award."
   - title: "Daniel Petrie and Valeria Vulpe"
     link: "https://www.edfringe.com/tickets/whats-on/daniel-petrie-and-valeria-vulpe"
     performers:
