@@ -78,9 +78,8 @@ reviews:
     venue: "Monkey Barrel Comedy – Monkey Barrel 2"
     time: "20:35"
     run: "3–30 August"
-    rating: 7
-    text:
-      - 
+    rating: 
+    text: []
   - title: "Why English?"
     link: "https://www.edfringe.com/tickets/whats-on/why-english"
     performers:
