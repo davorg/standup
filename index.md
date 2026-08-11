@@ -14,6 +14,8 @@ laughter, you've come to the right place.
 
 ## Featured Content
 
+- [Our Edinburgh 2026 reviews](/reviews/2026/edinburgh/)
+
 - [Edinburgh Fringe 2026 is about to begin](/2026/08/04/edinburgh-fringe-2026-is-about-to-begin/)
 
 - [Eleven Edinburgh Fringe comedy shows I want to see in 2026](/2026/07/12/eleven-edinburgh-fringe-comedy-shows-to-see/)
