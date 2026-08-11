@@ -107,7 +107,7 @@ reviews:
     run: "6–17 August"
     rating: 4
     text:
-      - "Oakes is advertising this show by walking around town dressed as a pigeon, carrying a sign that says 'Pigeons, Neuro-diverenge, German Nudity. And while that's an accurate description of the show's content, it really doesn't tell you much about what the show is really about. It's a show about coming to terms with what makes you different from other people and making the decision to stop pretending and show your real self."
+      - "Oakes is advertising this show by walking around town dressed as a pigeon, carrying a sign that says 'Pigeons, Neuro-divergence, German Nudity. And while that's an accurate description of the show's content, it really doesn't tell you much about what the show is really about. It's a show about coming to terms with what makes you different from other people and making the decision to stop pretending and show your real self."
       - "There are shows on the Fringe that will make you laugh longer and harder than this one. But this is a show with real heart. Oakes works hard to build a real connection with her audience and that work is repaid in the applause at the end of the performance. This show is well worth an hour of your time in the middle of the afternoon."
   - title: "Lara Ricote: INKLING"
     link: "https://www.edfringe.com/tickets/whats-on/lara-ricote-inkling"
