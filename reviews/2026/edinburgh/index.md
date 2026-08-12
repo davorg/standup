@@ -49,7 +49,7 @@ reviews:
       - "And that is the world of Tom Johnson and Rob Gleinster, the violently charismatic duo behind 'Armageddon Outta Here'. The plot of the show has an asteroid heading towards Earth and a number of short sketches showing how that affects various people on the planet. But that's not at all important. What's important that they have flimsy structure on which they can hang an hour of puns, sight-gags and slapstick."
       - "If your Fringe doesn't include at least one show like this, then can you really say you've been to the Fringe? And this is a prime example of its ilk. You should see it."
   - title: "Woman(33)"
-    link: "https://www.edfringe.com/tickets/whats-on/woman-33"
+    link: "https://www.edfringe.com/tickets/whats-on/lilla-multipass-woman-33"
     performers:
       - "Lilla Multipass"
     venue: "Hoots @ Potterrow – Wee Container 2"
