@@ -46,7 +46,7 @@ reviews:
     rating: 3.5
     text:
       - "Some people spend their Fringe in the Pleasance Courtyard watching polished hours of stand-up by people they've seen on the telly. But there's another side of the Fringe where frenetic performers act out chaotic plays with cardboard sets in front of single-digit audiences."
-      - "And that is the world of Tom Johnson and Rob Gleinster. The plot of 'Armageddon Outta Here' has an asteroid heading towards Earth and a number of short sketches showing how that affects various people on the planet. But that's not at all important. What's important that they have flimsy structure on which they can hang an hour of puns, sight-gags and slapstick."
+      - "And that is the world of Tom Johnson and Rob Gleinster, the violently charismatic duo behind 'Armageddon Outta Here'. The plot of the show has an asteroid heading towards Earth and a number of short sketches showing how that affects various people on the planet. But that's not at all important. What's important that they have flimsy structure on which they can hang an hour of puns, sight-gags and slapstick."
       - "If your Fringe doesn't include at least one show like this, then can you really say you've been to the Fringe? And this is a prime example of its ilk. You should see it."
   - title: "Woman(33)"
     link: "https://www.edfringe.com/tickets/whats-on/woman-33"
