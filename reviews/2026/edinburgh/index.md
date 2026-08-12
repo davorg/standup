@@ -80,7 +80,7 @@ reviews:
     tiktoked: true
     text:
       - "A lot of the shows I've seen this year seem to have a message at the heart of them. The performers want you to go away thinking about something. And that's great. But it's also good to see someone like Daniel Petrie. Someone without a big message. He's a talented comic who tells great jokes about his life. And he's bloody good at it. He even had me laughing at jokes about football. And I know nothing about football."
-      - "Valeria Vulpe been quietly growing an audience on social media over the last year. After seeing dozens of TikToks of heri act, it was great to finally see her live. If there was a Comedy Award for the driest humour of the festival, she would easily win it. Like many other shows I've seen this year, you'll come away having learned new things. But in this case, that will be facts about Moldova - and other countries starting with 'M' that aren't Moldova."
+      - "Valeria Vulpe been quietly growing an audience on social media over the last year. After seeing dozens of TikToks of her act, it was great to finally see her live. If there was a Comedy Award for the driest humour of the festival, she would easily win it. Like many other shows I've seen this year, you'll come away having learned new things. But in this case, that will be facts about Moldova - and other countries starting with 'M' that aren't Moldova."
   - title: "Kate Dolan: Trout"
     link: "https://www.edfringe.com/tickets/whats-on/kate-dolan-trout"
     performers:
@@ -152,6 +152,7 @@ reviews:
 #     time: "19:30"
 #     run: "1–25 August"
 #     rating: 4
+#     tiktoked: true
 #     carousel_text: "A short pull-quote for social media."
 #     text:
 #       - "The first paragraph of the review."
