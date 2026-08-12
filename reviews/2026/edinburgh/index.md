@@ -12,6 +12,8 @@ reviews:
     time: "17:30"
     run: "5–30 August"
     rating: 4
+    tiktoked: true
+    carousel_text: "A fascinating and entertaining story that ends up making important points."
     text:
       - "There are a few spots in this show where it's really not obvious where we're heading. But that's part of the fun. The slight feeling of disorientation means it's all the more satisfying when we reach our destination and it becomes clear that Koch has been in complete control the whole time."
       - "This show has all the hallmarks of a classic Fringe hour-long show. Koch weaves a fascinating and entertaining story that ends up making important points."
@@ -22,7 +24,9 @@ reviews:
     venue: "Pleasance Courtyard – Bunker Two"
     time: "20:10"
     run: "5–30 August"
+    carousel_text: "Interesting (and very rude!) things to say about adults who move back in with their parents."
     rating: 3.5
+    tiktoked: true
     text:
       - "McKenzie is new to me. But having a poster that parodies a Bob Dylan album cover is a great way to grab my attention."
       - "Her delivery can be a bit disconcerting, but that's all part of the act. And she has a lot of interesting (and very rude!) things to say about adults who have to move back in with their parents."
@@ -42,8 +46,10 @@ reviews:
       - "Rob Glenister"
     venue: "Just The Tonic at Westside Rodeo – The Saloon Bar"
     time: "12:00"
+    carousel_text: "A prime example of the chaotic, cardboard-set side of the Fringe. You should see it."
     run: "6–17 August"
     rating: 3.5
+    tiktoked: true
     text:
       - "Some people spend their Fringe in the Pleasance Courtyard watching polished hours of stand-up by people they've seen on the telly. But there's another side of the Fringe where frenetic performers act out chaotic plays with cardboard sets in front of single-digit audiences."
       - "And that is the world of Tom Johnson and Rob Gleinster, the violently charismatic duo behind 'Armageddon Outta Here'. The plot of the show has an asteroid heading towards Earth and a number of short sketches showing how that affects various people on the planet. But that's not at all important. What's important that they have flimsy structure on which they can hang an hour of puns, sight-gags and slapstick."
@@ -54,8 +60,10 @@ reviews:
       - "Lilla Multipass"
     venue: "Hoots @ Potterrow – Wee Container 2"
     time: "14:20"
+    carousel_text: "This show is a joy to behold. If there's any justice, she'll be up for an award."
     run: "7–30 August"
     rating: 4.5
+    tiktoked: true
     text:
       - "Two days into my time at the Fringe and this is the best thing I've seen. Lilla Multipass takes the audience along to her first therapy session. It's a difficult process; there's a lot to unpick. But, over the hour, she deconstructs a lot of the lifestyle of a millennial woman."
       - "Part stand-up, part theatre (she turns cardboard boxes into props with a child-like glee) and part audience participation (the gentlest, most optional audience participation I've ever seen), this show is a joy to behold. If there's any justice, she'll be up for an award."
@@ -66,8 +74,10 @@ reviews:
       - "Valeria Vulpe"
     venue: "Just The Tonic at The Caves – Just The Wee One"
     time: "17:30"
+    carousel_text: "Great jokes, bone-dry humour and even a few new facts about Moldova."
     run: "6–17 August"
     rating: 4
+    tiktoked: true
     text:
       - "A lot of the shows I've seen this year seem to have a message at the heart of them. The performers want you to go away thinking about something. And that's great. But it's also good to see someone like Daniel Petrie. Someone without a big message. He's a talented comic who tells great jokes about his life. And he's bloody good at it. He even had me laughing at jokes about football. And I know nothing about football."
       - "Valeria Vulpe been quietly growing an audience on social media over the last year. After seeing dozens of TikToks of heri act, it was great to finally see her live. If there was a Comedy Award for the driest humour of the festival, she would easily win it. Like many other shows I've seen this year, you'll come away having learned new things. But in this case, that will be facts about Moldova - and other countries starting with 'M' that aren't Moldova."
@@ -104,8 +114,10 @@ reviews:
       - "Jules Oakes"
     venue: "Just The Tonic at Westside Rodeo – The Saloon Bar"
     time: "16:00"
+    carousel_text: "A show with real heart, and well worth an hour of your time."
     run: "6–17 August"
     rating: 4
+    tiktoked: true
     text:
       - "Oakes is advertising this show by walking around town dressed as a pigeon, carrying a sign that says 'Pigeons, Neuro-divergence, German Nudity'. And while that's an accurate description of the show's content, it really doesn't tell you much about what the show is really about. It's a show about coming to terms with what makes you different from other people and making the decision to stop pretending and show your real self."
       - "There are shows on the Fringe that will make you laugh longer and harder than this one. But this is a show with real heart. Oakes works hard to build a real connection with her audience and that work is repaid in the applause at the end of the performance. This show is well worth an hour of your time in the middle of the afternoon."
@@ -140,6 +152,7 @@ reviews:
 #     time: "19:30"
 #     run: "1–25 August"
 #     rating: 4
+#     carousel_text: "A short pull-quote for social media."
 #     text:
 #       - "The first paragraph of the review."
 #       - "The second paragraph of the review."
