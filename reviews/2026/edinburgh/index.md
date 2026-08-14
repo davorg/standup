@@ -37,8 +37,12 @@ reviews:
     venue: "theSpace @ Surgeons' Hall – Theatre 2"
     time: "Various times"
     run: "7–29 August"
-    rating:
-    text: []
+    rating: 3
+    carousel_text: "An imaginative and heartfelt piece of work."
+    text:
+      - "The science-fiction premise is initially what drew me to this show, although it soon becomes clear that the robots are largely a framework for a much more personal story about loss, upheaval and rebuilding your life."
+      - "There are also unexpected excursions into Tolkien territory, whose connection to the rest of the story isn't always obvious. Midge Lema creates some warm, enjoyable moments of audience participation, and much of the audience clearly connected strongly with the show."
+      - "As a musical, however, I found the songs rather too similar to one another, which made the hour feel less varied than it might have done. It didn't resonate with me as much as it did with others in the room, but it's an imaginative and heartfelt piece of work."
   - title: "Armageddon Outta Here"
     link: "https://www.edfringe.com/tickets/whats-on/armageddon-outta-here"
     performers:
@@ -88,8 +92,12 @@ reviews:
     venue: "Monkey Barrel Comedy – Monkey Barrel 2"
     time: "20:35"
     run: "3–30 August"
-    rating: 
-    text: []
+    rating: 3.5
+    carousel_text: "Strange, exhausting and often very funny."
+    text:
+      - "The premise is that a modern woman might enjoy life more if she were a trout. Dolan illustrates this by arriving on stage in an elaborate trout head, immediately establishing the tone for what follows. Early on, she warns us that 'the show won't get any more normal', and she is entirely true to her word."
+      - "This is a loud, intensely physical and deliberately confrontational performance. Dolan ricochets between accents, songs, dance, audience interaction and a formidable range of subjects—from friends and feminism to her body, depression and premenstrual dysphoric disorder. Her vocal and physical performances are impressive, and there is rarely a moment when she isn't throwing another idea at the audience."
+      - "That relentless energy is both the show's greatest strength and, for me, occasionally its weakness. Some of the material could benefit from a little more room to breathe, but Dolan is an undeniably distinctive performer. Trout is strange, exhausting and often very funny—and certainly unlike anything else you're likely to see at the Fringe."
   - title: "Why English?"
     link: "https://www.edfringe.com/tickets/whats-on/why-english"
     performers:
@@ -97,8 +105,12 @@ reviews:
     venue: "Assembly George Square Studios – Studio Five"
     time: "12:15"
     run: "10–16 August"
-    rating:
-    text: []
+    rating: 4
+    carousel_text: "A rewarding reminder of how much the Fringe has to offer beyond stand-up."
+    text:
+      - "We mostly concentrate on stand-up at standup.co.uk, but one of the pleasures of the Edinburgh Fringe is the opportunity to explore other kinds of performance. Why English? combines dance, theatre and personal storytelling with a meditation on India's place in the world and the position of women within Indian society."
+      - "Vibhinna Ramdev is a compelling and versatile performer, moving seamlessly between characters and costumes, and between scripted sections and moments of improvisation. The question posed by the title is answered relatively quickly—Thomas Macaulay has much to answer for—but it provides the historical foundation for a much more personal story."
+      - "It is Ramdev's account of growing up as a woman in a traditional family, and the obstacles she faced in becoming the person and performer she wanted to be, that gives the show its real power. Bold, thoughtful and deeply personal, Why English? is a rewarding reminder of how much the Fringe has to offer beyond stand-up."
   - title: "The Ship of Thesaurus (WIP)"
     link: "https://www.edfringe.com/tickets/whats-on/the-ship-of-thesaurus-wip"
     performers:
@@ -106,8 +118,12 @@ reviews:
     venue: "PBH's Free Fringe @ Whistlebinkies – Small Room"
     time: "13:45"
     run: "8–14 August"
-    rating:
-    text: []
+    rating: 4
+    carousel_text: "A fun hour for anyone who enjoys discovering just how peculiar language can be."
+    text:
+      - "This was the smallest room in which I saw a show at this year's Fringe—an appropriately intimate setting for Joe Mayo's work-in-progress exploration of communication and the stranger corners of language."
+      - "Mayo ranges cheerfully across subjects including Wikipedia articles about animal genitalia, collective nouns and the 1909 International Code of Signal Flags. If that list sounds intriguing rather than alarming, then The Ship of Thesaurus is almost certainly the show for you."
+      - "The room is small and the performance highly interactive, so at times it feels more like an entertaining group discussion than a conventional comedy show. Its work-in-progress status is apparent in a few places, but that is part of the charm. This is a fun hour for anyone who enjoys discovering just how peculiar language can be."
   - title: "Jules Oakes: Fragile"
     link: "https://www.edfringe.com/tickets/whats-on/jules-oakes-fragile"
     performers:
@@ -128,8 +144,12 @@ reviews:
     venue: "Monkey Barrel Comedy – Monkey Barrel 3"
     time: "17:40"
     run: "5–30 August"
-    rating:
-    text: []
+    rating: 3.5
+    carousel_text: "Thoughtful, inventive comedy from a performer with a distinctive perspective."
+    text:
+      - "I had heard great things about INKLING before seeing it, so perhaps my expectations were unusually high. There is certainly a lot going on here, and Lara Ricote has clearly thought deeply about how best to present her ideas. What begins with her struggling to follow a conversation about art in a London gallery develops into a much broader exploration of communication, uncertainty and her experience of being hard of hearing."
+      - "This is an ambitious, intricately structured show rather than a straightforward hour of stand-up. Ricote moves between microphones, blackouts and different points in the story, gradually assembling a non-linear mosaic of relationships, isolation and personal growth. Some sections seem deliberately difficult to follow, giving the audience a small sense of the confusion and exclusion she can experience herself."
+      - "The audience responded enthusiastically, and it is easy to admire the intelligence, physicality and care behind the performance. For me, however, its deliberate complexity sometimes created more distance than connection, and I left impressed by the construction without being completely won over by the result. Even so, this is thoughtful, inventive comedy from a performer with a distinctive perspective."
   - title: "The Pleasance Comedy Reserve"
     link: "https://www.edfringe.com/tickets/whats-on/the-pleasance-comedy-reserve"
     performers:
@@ -142,6 +162,34 @@ reviews:
     run: "5–31 August"
     rating:
     text: []
+  - title: "Bebe Cave: Swoon"
+    link: "https://www.edfringe.com/tickets/whats-on/bebe-cave-swoon"
+    performers:
+      - "Bebe Cave"
+    venue: "Pleasance Dome – Jack Dome"
+    time: "17:40"
+    run: "5–30 August"
+    rating: 4.5
+    carousel_text: "Educational, entertaining and very funny."
+    text:
+      - "I have been fascinated by the Pre-Raphaelite Brotherhood and their muse, Lizzie Siddal, since seeing her grave on a tour of Highgate Cemetery thirty years ago. So, as soon as I heard about Swoon, I knew I had to see it."
+      - "Bebe Cave tells a story—rather than necessarily the story—of Siddal's relationship with the Brotherhood through the fictional eyes of her equally fictional sister, Bertrude. Historical accuracy is cheerfully sacrificed on the altar of entertainment, with Lizzie lightly reinvented as a Victorian model and influencer. Yet beneath all the liberties, the essential truth remains: Siddal's talent and agency were repeatedly overshadowed by the men around her, while her relationship with Rossetti was painful and unequal."
+      - "Cave dashes energetically between characters, distinguishing them largely through increasingly inventive headwear. A three-hat contraption representing Rossetti, Holman Hunt and Millais is particularly effective. This is a demanding, exuberant performance, and Cave's considerable effort is repaid by a delighted audience. Educational, entertaining and very funny, Swoon brings its subjects vividly—and irreverently—to life."
+  - title: "Crybabies: The Scaring"
+    link: "https://www.edfringe.com/tickets/whats-on/crybabies-the-scaring"
+    performers:
+      - "Michael Clarke"
+      - "James Gault"
+      - "Ed Jones"
+    venue: "Pleasance Courtyard – Pleasance Two"
+    time: "20:00"
+    run: "5–30 August"
+    rating: 4
+    carousel_text: "Funny, inventive and properly unsettling."
+    text:
+      - "On my previous visit to the Fringe, I saw Garth Marenghi perform the Perrier Award-winning Netherhead at the Pleasance. There is a pleasing symmetry in ending this year's visit at the same venue with The Scaring, another comedy-horror story performed by three very talented comic actors."
+      - "Crybabies—Michael Clarke, James Gault and Ed Jones—tell the story of a former priest who visits a remote hotel and discovers that it has some serious supernatural problems. The result is equal parts comedy and horror: densely packed with jokes, but also committed enough to the genre to deliver several genuinely surprising jump scares."
+      - "The staging is particularly impressive. Video, lighting, sound and illusion are combined to create effects far more ambitious than you might expect from a Fringe comedy show, including a couple I still cannot work out. The Scaring is funny, inventive and properly unsettling. I would strongly recommend seeing it—although its almost entirely sold-out run suggests that most people have already got the message."
 # Add reviews using this structure:
 # reviews:
 #   - title: "Show title"
