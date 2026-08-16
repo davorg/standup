@@ -11,6 +11,17 @@ author: "Dave Cross"
 returning to the Fringe after 25 years; the other was seeing it for the first
 time. Edinburgh did not offer either of us a gentle introduction.
 
+## First impressions
+
+Our accommodation made a memorable first impression. The entrance looked
+more like the start of a particularly grim piece of immersive theatre than
+the way into our home for the next few days. Happily, it was much nicer once
+we got through the door.
+
+![The graffiti-covered entrance to our Edinburgh accommodation](/assets/images/edinburgh-accommodation.jpg)
+
+*Not the most reassuring entrance—but it was much nicer inside.*
+
 ## From spreadsheets to streets
 
 The programme may be searchable, sortable and carefully added to calendars,
