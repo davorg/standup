@@ -2,7 +2,7 @@
 set -euo pipefail
 
 reviews_file=${1:-reviews/2026/edinburgh/index.md}
-out=${2:-social/tiktok/2026-edinburgh-reviews}
+out=${2:-social/tiktok/2026-edinburgh-reviews-2}
 source_dir=${3:-$out/source}
 logo=${4:-assets/images/standup-logo-round.png}
 mkdir -p "$out"
@@ -46,10 +46,10 @@ make_review_slide() {
     -font "$font_bold" -pointsize 25 -fill '#ffd52a' -annotate +98+1278 'STANDUP.CO.UK' -quality 94 "$output"
 }
 
-make_card "$out/01-opening-card.jpg" $'OUR FIRST EDINBURGH\nREVIEWS ARE IN' 'More reviews coming throughout the Fringe'
+make_card "$out/01-opening-card.jpg" $'SEVEN MORE EDINBURGH\nREVIEWS ARE IN' 'Our second batch of reviews from the Fringe'
 ruby -ryaml -rbase64 -e '
   yaml = File.read(ARGV[0]).split(/^---\s*$\n/, 3)[1]
-  YAML.safe_load(yaml)["reviews"].select { |r| r["rating"] && r["text"]&.any? }.each do |r|
+  YAML.safe_load(yaml)["reviews"].select { |r| r["rating"] && r["text"]&.any? && r["tiktoked"] != true }.each do |r|
     f=[r["link"].split("/").last,r["title"],r["performers"].join(" & "),r["rating"].to_s,r.fetch("carousel_text")]
     puts f.map { |v| Base64.strict_encode64(v) }.join("\t")
   end
@@ -60,17 +60,18 @@ while IFS=$'\t' read -r a b c d e; do
   slug=$(printf %s "$a"|base64 -d); title=$(printf %s "$b"|base64 -d); performers=$(printf %s "$c"|base64 -d)
   rating=$(printf %s "$d"|base64 -d); quote=$(printf %s "$e"|base64 -d)
   case "$slug" in
-    olga-koch-fat-tom-cruise) image="$source_dir/olga-koch.jpg" ;;
-    ele-mckenzie-bringing-it-all-back-home) image="$source_dir/ele-mckenzie.jpg" ;;
-    armageddon-outta-here) image="$source_dir/armageddon-outta-here.jpg" ;;
-    lilla-multipass-woman-33) image="$source_dir/woman-33.jpg" ;;
-    daniel-petrie-and-valeria-vulpe) image="$source_dir/daniel-petrie-valeria-vulpe.jpg" ;;
-    jules-oakes-fragile) image="$source_dir/jules-oakes.jpg" ;;
+    bean-vs-the-robots-a-solo-show-musical) image="$source_dir/bean-vs-the-robots.jpg" ;;
+    kate-dolan-trout) image="$source_dir/kate-dolan-trout.jpg" ;;
+    why-english) image="$source_dir/why-english.jpg" ;;
+    the-ship-of-thesaurus-wip) image="$source_dir/ship-of-thesaurus.jpg" ;;
+    lara-ricote-inkling) image="$source_dir/lara-ricote-inkling.jpg" ;;
+    bebe-cave-swoon) image="$source_dir/bebe-cave-swoon.jpg" ;;
+    crybabies-the-scaring) image="$source_dir/crybabies-the-scaring.jpg" ;;
     *) printf 'No image configured for %s\n' "$slug" >&2; exit 1 ;;
   esac
   make_review_slide "$number" "$slug" "$title" "$performers" "$rating" "$quote" "$image"
   number=$((number + 1))
 done < "$work_dir/reviews.tsv"
-make_card "$out/$(printf '%02d' "$number")-closing-card.jpg" $'MORE EDINBURGH\nREVIEWS COMING SOON' 'Read the latest at standup.co.uk/reviews/2026/edinburgh/'
+make_card "$out/$(printf '%02d' "$number")-closing-card.jpg" $'READ ALL OUR\nEDINBURGH REVIEWS' 'standup.co.uk/reviews/2026/edinburgh/'
 magick montage "$out"/[0-9][0-9]-*.jpg -thumbnail 216x270 -tile 3x3 -geometry +8+8 -background '#111111' "$out/contact-sheet.jpg"
 printf 'Created %d-slide carousel in %s\n' "$number" "$out"
