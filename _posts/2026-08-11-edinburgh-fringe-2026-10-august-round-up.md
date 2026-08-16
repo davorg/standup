@@ -1,6 +1,6 @@
 ---
 title: "Edinburgh Fringe 2026: 10 August round-up"
-description: "Our first full day produces robots, cardboard apocalypse, dry Moldovan humour and a woman dressed as a trout."
+description: "Our first full day produces robots, cardboard apocalypse, therapy with Lilla Multipass, dry Moldovan humour and a woman dressed as a trout."
 date: 2026-08-11
 categories: [edinburgh, fringe, comedy, reviews]
 tags: [Edinburgh Fringe 2026, comedy, festival diary]
@@ -24,6 +24,12 @@ staging the end of the world with more enthusiasm than scenery.
   is approaching Earth, but the plot mainly exists to support puns, sight gags
   and slapstick.
   → [Read our review](/reviews/2026/edinburgh/#armageddon-outta-here)
+
+- **Lilla Multipass – *Woman(33)*** takes the audience into a first therapy
+  session and deconstructs the life of a millennial woman using stand-up,
+  theatre, cardboard boxes and remarkably gentle audience participation. It
+  is a joy—and, if there is any justice, an awards contender.
+  → [Read our 4½-star review](/reviews/2026/edinburgh/#lilla-multipass-woman-33)
 
 - **Daniel Petrie and Valeria Vulpe** offer two contrasting sets: great jokes
   about ordinary life from Petrie, then Vulpe's bone-dry humour and an
@@ -52,4 +58,4 @@ is already filling with everything from conventional stand-up to shows called
 ## Today's takeaway
 
 A Fringe day improves when its shows have almost nothing in common. Robots,
-an asteroid, Moldova and a trout will do nicely.
+an asteroid, therapy, Moldova and a trout will do nicely.
