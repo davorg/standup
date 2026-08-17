@@ -1,0 +1,57 @@
+{% assign canonical_url = page.url | absolute_url %}
+{% assign page_description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines %}
+{% assign page_author = page.author | default: site.social.name %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ site.url | append: "/#organization" | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "url": {{ site.url | append: "/" | jsonify }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": {{ site.logo | absolute_url | jsonify }}
+      },
+      "sameAs": {{ site.social.links | jsonify }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ site.url | append: "/#website" | jsonify }},
+      "url": {{ site.url | append: "/" | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "publisher": {
+        "@id": {{ site.url | append: "/#organization" | jsonify }}
+      },
+      "inLanguage": {{ site.lang | default: "en-GB" | jsonify }}
+    },
+    {
+      "@type": {% if page.collection == "posts" %}"Article"{% elsif page.reviews %}"CollectionPage"{% else %}"WebPage"{% endif %},
+      "@id": {{ canonical_url | append: "#webpage" | jsonify }},
+      "url": {{ canonical_url | jsonify }},
+      "name": {{ page.title | default: site.title | jsonify }},
+      "description": {{ page_description | jsonify }},
+      "isPartOf": {
+        "@id": {{ site.url | append: "/#website" | jsonify }}
+      },
+      "about": {
+        "@id": {{ site.url | append: "/#organization" | jsonify }}
+      },
+      "inLanguage": {{ site.lang | default: "en-GB" | jsonify }}{% if page.collection == "posts" %},
+      "headline": {{ page.title | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "author": {
+        "@type": "Person",
+        "name": {{ page_author | jsonify }}
+      },
+      "publisher": {
+        "@id": {{ site.url | append: "/#organization" | jsonify }}
+      }{% if page.header.overlay_image %},
+      "image": {{ page.header.overlay_image | absolute_url | jsonify }}{% elsif page.image %},
+      "image": {{ page.image | absolute_url | jsonify }}{% endif %}{% endif %}
+    }
+  ]
+}
+</script>

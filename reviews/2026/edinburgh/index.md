@@ -3,6 +3,8 @@ title: "Edinburgh Fringe Reviews 2026"
 permalink: /reviews/2026/edinburgh/
 layout: single
 classes: wide
+author: "Dave Cross"
+review_author: "Dave Cross"
 reviews:
   - title: "Olga Koch: Fat Tom Cruise"
     link: "https://www.edfringe.com/tickets/whats-on/olga-koch-fat-tom-cruise"

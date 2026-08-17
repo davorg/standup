@@ -54,23 +54,6 @@ jekyll-archives:
     tag: /tag/:name/
     year: /:year/
 
-# Defaults for posts (less front matter to type)
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author: "UK Stand-Up"
-      read_time: true
-      comments: false
-      share: true
-      related: true
-      classes: wide
-      header:
-        overlay_image: /assets/images/social-default.jpg   # 1200x630 recommended
-        overlay_filter: 0.4
-
 # Social + Analytics
 social:
   name: UK Stand-Up
@@ -133,5 +116,9 @@ defaults:
     values:
       layout: single
       show_date: true
-      read_time: true 
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      classes: wide
       author_profile: 1
