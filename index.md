@@ -12,6 +12,12 @@ world of stand-up comedy in the UK! Whether you're a seasoned comedy
 aficionado, an aspiring comedian, or just looking for a night out filled with
 laughter, you've come to the right place.
 
+## Recent Posts
+
+{% for post in site.posts limit: 5 %}
+- {{ post.date | date: "%-d %B %Y" }}: [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+
 ## Featured Content
 
 - [Our Edinburgh 2026 reviews](/reviews/2026/edinburgh/)
@@ -51,4 +57,3 @@ Are you a comedian, venue, or event organiser?
 collaborate with us. Let’s keep the UK comedy scene buzzing together!
 
 ---
-
